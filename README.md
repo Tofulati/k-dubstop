@@ -11,6 +11,7 @@ K-Pop and Dubstep
 > Data was not used for purposes that are meant for educational purposes. Analyses do not intend to make profit or any sort of monitary value from the data that the analyses were derived from.
 
 Data Credits:
+
 __Kpop:__
 - K/DA, (G)I-DLE, Wolftyla, Bea Miller, League of Legends - THE BADDEST
 - K/DA, Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine, League of Legends - MORE
