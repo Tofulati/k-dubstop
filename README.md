@@ -4,7 +4,7 @@
 
 CSE 153 - Assignment 2
 
-Where KPOP meets Dubstep through machine learning.
+Where K-music meets AI through machine learning.
 
 Members:
 - Albert Ho
